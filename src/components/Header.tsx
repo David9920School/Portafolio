@@ -23,7 +23,7 @@ export default function Header() {
     return (
         <header
             style={{
-                background: "#1d273c",
+                background: "#48944bff",
                 color: "white",
                 padding: "30px",
                 display: "flex",
